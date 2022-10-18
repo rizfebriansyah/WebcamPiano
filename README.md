@@ -14,3 +14,5 @@ Slider at 130, meaning it will be less sensitive to movements:
 
 Slider at 255, meaning it will be very insensitive to movements:
 <img width="1148" alt="webcam255" src="https://user-images.githubusercontent.com/88428142/196128437-6cd70d3a-26db-4953-83a4-babc312e5a63.png">
+
+To run the application, please download Brackets. Download and drag all the files and peform a live preview.
